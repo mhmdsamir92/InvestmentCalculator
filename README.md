@@ -4,5 +4,3 @@ This project is part of my learning journey to review some react concepts and ap
 This project is linked through a simple CD process with [Render](https://render.com/) so always any master update will be deployed here:
 
 https://investmentcalculator-k1xy.onrender.com/
-
-Note: The game screen is not UI reponsive friendly
